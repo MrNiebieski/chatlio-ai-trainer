@@ -1,0 +1,7 @@
+DEBUG: True # make this False in production
+SLACK_TOKEN: "xoxb-"
+BOT_ID: ""
+API_API_TOKEN: ""
+ACTIVE_PLUGINS:
+    - plugins.apiai.TrainerPlugin
+
